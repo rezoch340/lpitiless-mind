@@ -1,0 +1,4 @@
+interface:
+  display_name: "lpitiless 的思维方式"
+  short_description: "借用 lpitiless 看问题、做取舍和推进事情的方式，适用于项目与 AI 协作"
+  default_prompt: "用 $lpitiless-mind 处理这个问题，按他的思路和处事方式给出判断、关键依据与下一步。"
